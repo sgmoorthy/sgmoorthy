@@ -33,105 +33,123 @@ I'm **Gurumurthy Swaminathan**, a passionate developer and researcher in Artific
 Here are some of my notable projects with detailed descriptions and technology highlights:
 
 ### 🎵 DeepRaaga
-<div style="border: 2px solid #FF6F00; border-radius: 10px; padding: 15px; margin: 10px 0; background-color: #f9f9f9;">
-  <p align="center">
-    <a href="https://github.com/sgmoorthy/DeepRaaga">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sgmoorthy&repo=DeepRaaga&show_owner=true&theme=radical" alt="DeepRaaga"/>
-    </a>
-  </p>
-  <p><strong>Description:</strong> An AI-powered system for automatic recognition and classification of Indian classical music Raagas using deep learning techniques. Analyzes audio features to identify musical patterns and cultural heritage.</p>
-  <p><strong>Technologies Used:</strong></p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-    <img src="https://img.shields.io/badge/Librosa-F39C12?style=flat&logo=python&logoColor=white" alt="Librosa"/>
-  </p>
-</div>
+<table style="border-collapse: collapse; width: 100%; background-color: #f8f9fa; border: 2px solid #FF6F00; border-radius: 10px;">
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <a href="https://github.com/sgmoorthy/DeepRaaga">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sgmoorthy&repo=DeepRaaga&show_owner=true&theme=radical" alt="DeepRaaga"/>
+      </a>
+      <br><br>
+      <strong>Description:</strong><br>
+      An AI-powered system for automatic recognition and classification of Indian classical music Raagas using deep learning techniques. Analyzes audio features to identify musical patterns and cultural heritage.
+      <br><br>
+      <strong>Technologies Used:</strong><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+      <img src="https://img.shields.io/badge/Librosa-F39C12?style=flat&logo=python&logoColor=white" alt="Librosa"/>
+    </td>
+  </tr>
+</table>
 
 ### 🌿 NatureLink
-<div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 15px; margin: 10px 0; background-color: #f9f9f9;">
-  <p align="center">
-    <a href="https://github.com/sgmoorthy/NatureLink">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sgmoorthy&repo=NatureLink&show_owner=true&theme=radical" alt="NatureLink"/>
-    </a>
-  </p>
-  <p><strong>Description:</strong> A comprehensive platform connecting environmental data sources with AI-driven insights for conservation and sustainability. Integrates IoT sensors with machine learning for real-time environmental monitoring.</p>
-  <p><strong>Technologies Used:</strong></p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  </p>
-</div>
+<table style="border-collapse: collapse; width: 100%; background-color: #f8f9fa; border: 2px solid #4CAF50; border-radius: 10px;">
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <a href="https://github.com/sgmoorthy/NatureLink">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sgmoorthy&repo=NatureLink&show_owner=true&theme=radical" alt="NatureLink"/>
+      </a>
+      <br><br>
+      <strong>Description:</strong><br>
+      A comprehensive platform connecting environmental data sources with AI-driven insights for conservation and sustainability. Integrates IoT sensors with machine learning for real-time environmental monitoring.
+      <br><br>
+      <strong>Technologies Used:</strong><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    </td>
+  </tr>
+</table>
 
 ### 🔬 PFSGE
-<div style="border: 2px solid #2196F3; border-radius: 10px; padding: 15px; margin: 10px 0; background-color: #f9f9f9;">
-  <p align="center">
-    <a href="https://github.com/sgmoorthy/PFSGE">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sgmoorthy&repo=PFSGE&show_owner=true&theme=radical" alt="PFSGE"/>
-    </a>
-  </p>
-  <p><strong>Description:</strong> Advanced implementation of Particle Filter algorithms with Stochastic Gradient Estimation for complex system modeling and prediction. Focuses on Bayesian filtering techniques for state estimation.</p>
-  <p><strong>Technologies Used:</strong></p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
-    <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" alt="SciPy"/>
-    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" alt="Matplotlib"/>
-  </p>
-</div>
+<table style="border-collapse: collapse; width: 100%; background-color: #f8f9fa; border: 2px solid #2196F3; border-radius: 10px;">
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <a href="https://github.com/sgmoorthy/PFSGE">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sgmoorthy&repo=PFSGE&show_owner=true&theme=radical" alt="PFSGE"/>
+      </a>
+      <br><br>
+      <strong>Description:</strong><br>
+      Advanced implementation of Particle Filter algorithms with Stochastic Gradient Estimation for complex system modeling and prediction. Focuses on Bayesian filtering techniques for state estimation.
+      <br><br>
+      <strong>Technologies Used:</strong><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
+      <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" alt="SciPy"/>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" alt="Matplotlib"/>
+    </td>
+  </tr>
+</table>
 
 ### 📝 Deepword-rnn-tensorflow
-<div style="border: 2px solid #FF9800; border-radius: 10px; padding: 15px; margin: 10px 0; background-color: #f9f9f9;">
-  <p align="center">
-    <a href="https://github.com/sgmoorthy/Deepword-rnn-tensorflow">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sgmoorthy&repo=Deepword-rnn-tensorflow&show_owner=true&theme=radical" alt="Deepword-rnn-tensorflow"/>
-    </a>
-  </p>
-  <p><strong>Description:</strong> A deep learning project implementing Recurrent Neural Networks (RNN) for natural language processing tasks including text generation, sentiment analysis, and language modeling using TensorFlow.</p>
-  <p><strong>Technologies Used:</strong></p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-    <img src="https://img.shields.io/badge/NLTK-306998?style=flat&logo=python&logoColor=white" alt="NLTK"/>
-    <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras"/>
-  </p>
-</div>
+<table style="border-collapse: collapse; width: 100%; background-color: #f8f9fa; border: 2px solid #FF9800; border-radius: 10px;">
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <a href="https://github.com/sgmoorthy/Deepword-rnn-tensorflow">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sgmoorthy&repo=Deepword-rnn-tensorflow&show_owner=true&theme=radical" alt="Deepword-rnn-tensorflow"/>
+      </a>
+      <br><br>
+      <strong>Description:</strong><br>
+      A deep learning project implementing Recurrent Neural Networks (RNN) for natural language processing tasks including text generation, sentiment analysis, and language modeling using TensorFlow.
+      <br><br>
+      <strong>Technologies Used:</strong><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+      <img src="https://img.shields.io/badge/NLTK-306998?style=flat&logo=python&logoColor=white" alt="NLTK"/>
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras"/>
+    </td>
+  </tr>
+</table>
 
 ### 🧠 agent-memory-hub
-<div style="border: 2px solid #9C27B0; border-radius: 10px; padding: 15px; margin: 10px 0; background-color: #f9f9f9;">
-  <p align="center">
-    <a href="https://github.com/sgmoorthy/agent-memory-hub">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sgmoorthy&repo=agent-memory-hub&show_owner=true&theme=radical" alt="agent-memory-hub"/>
-    </a>
-  </p>
-  <p><strong>Description:</strong> A sophisticated memory management system for AI agents, implementing various memory architectures including episodic, semantic, and working memory. Designed for long-term learning and context retention in conversational AI.</p>
-  <p><strong>Technologies Used:</strong></p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis"/>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  </p>
-</div>
+<table style="border-collapse: collapse; width: 100%; background-color: #f8f9fa; border: 2px solid #9C27B0; border-radius: 10px;">
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <a href="https://github.com/sgmoorthy/agent-memory-hub">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sgmoorthy&repo=agent-memory-hub&show_owner=true&theme=radical" alt="agent-memory-hub"/>
+      </a>
+      <br><br>
+      <strong>Description:</strong><br>
+      A sophisticated memory management system for AI agents, implementing various memory architectures including episodic, semantic, and working memory. Designed for long-term learning and context retention in conversational AI.
+      <br><br>
+      <strong>Technologies Used:</strong><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
+    </td>
+  </tr>
+</table>
 
 ### 📊 agent-meter
-<div style="border: 2px solid #607D8B; border-radius: 10px; padding: 15px; margin: 10px 0; background-color: #f9f9f9;">
-  <p align="center">
-    <a href="https://github.com/sgmoorthy/agent-meter">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sgmoorthy&repo=agent-meter&show_owner=true&theme=radical" alt="agent-meter"/>
-    </a>
-  </p>
-  <p><strong>Description:</strong> Comprehensive metrics and monitoring dashboard for AI agents, providing real-time performance analytics, usage statistics, and diagnostic tools for optimizing agent behavior and efficiency.</p>
-  <p><strong>Technologies Used:</strong></p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana"/>
-    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" alt="Prometheus"/>
-  </p>
-</div>
+<table style="border-collapse: collapse; width: 100%; background-color: #f8f9fa; border: 2px solid #607D8B; border-radius: 10px;">
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <a href="https://github.com/sgmoorthy/agent-meter">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sgmoorthy&repo=agent-meter&show_owner=true&theme=radical" alt="agent-meter"/>
+      </a>
+      <br><br>
+      <strong>Description:</strong><br>
+      Comprehensive metrics and monitoring dashboard for AI agents, providing real-time performance analytics, usage statistics, and diagnostic tools for optimizing agent behavior and efficiency.
+      <br><br>
+      <strong>Technologies Used:</strong><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana"/>
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" alt="Prometheus"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -178,10 +196,10 @@ Here's a timeline of my journey on GitHub:
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
+  <a href="https://twitter.com/sgmoorthy" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:sgmoorthy@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/sgmoorthy" target="_blank">
