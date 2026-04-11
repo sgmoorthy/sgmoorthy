@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm **Gurumurthy Swaminathan**, a Lead Data Scientist and AI Architect based in Coimbatore, India. I specialize in building scalable AI agent systems, multi-agent architectures, and enterprise-grade ML platforms.
+I'm **Gurumurthy Swaminathan**, a Lead Data Scientist and AI Architect based in India. I specialize in building scalable AI agent systems, multi-agent architectures, and enterprise-grade ML platforms.
 
 - 🔭 **Currently Working On:** AI-driven projects exploring the frontiers of generative models and agent memory architectures
 - 🌱 **Currently Learning:** Graph Neural Networks (GNNs), Large Language Models (LLMs), and advanced agent orchestration patterns
