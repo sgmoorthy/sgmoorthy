@@ -112,14 +112,6 @@ Here are some of my notable open-source projects:
 
 ---
 
-### 🔬 [PFSGE](https://github.com/sgmoorthy/PFSGE)
-> Particle Filter with Stochastic Gradient Estimation for Bayesian state estimation in complex dynamic systems.
-
-**Tech Stack:** Python | NumPy | SciPy | Matplotlib  
-**Status:** Research implementation
-
----
-
 ### 🕉️ [sivaDeepamSeva](https://github.com/sgmoorthy/sivaDeepamSeva)
 > Web application for managing temple lamp offerings and seva registrations with Google Sheets integration. Enables devotees to participate in sacred traditions digitally.
 
