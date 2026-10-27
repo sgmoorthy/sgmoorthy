@@ -6,13 +6,24 @@
 
 ## 🚀 About Me
 
-I'm **Gurumurthy Swaminathan**, a Lead Data Scientist and AI Architect based in India. I specialize in building scalable AI agent systems, multi-agent architectures, and enterprise-grade ML platforms.
+I'm **Gurumurthy Swaminathan**, an AI Center of Excellence Lead, AI Architect, and Independent Researcher based in India. I specialize in building enterprise-grade AI agent systems, multi-agent architectures, agentic protocols, production RAG systems, and novel biophysical/biotech separation technologies.
 
-- 🔭 **Currently Working On:** AI-driven projects exploring the frontiers of generative models and agent memory architectures
-- 🌱 **Currently Learning:** Graph Neural Networks (GNNs), Large Language Models (LLMs), and advanced agent orchestration patterns
-- 💬 **Ask Me About:** Python, TensorFlow, PyTorch, AI/ML architectures, multi-agent systems, and cloud-native AI deployments
+- 📜 **Patents & IP:** Inventor of **PFSGE** (Indian Patent Application No. 202641085541) — a novel method & apparatus for High-Molecular-Weight DNA separation.
+- 🔭 **Currently Working On:** Enterprise AI agent discovery platforms, agent-to-agent protocol orchestration, and biophysical simulation frameworks.
+- 🌱 **Currently Learning:** Advanced agent memory architectures, dynamic prompt management, and Graph Neural Networks (GNNs).
+- 💬 **Ask Me About:** AI/ML System Design, Agentic Workflows, Biophysical Modeling, Python, PyTorch, TensorFlow, & Cloud Architecture.
 - 📫 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/gurumuthyswaminathan/) | [Email](mailto:sgmoorthy@gmail.com)
 - 🏢 **ORCID:** [0000-0001-6293-8668](https://orcid.org/0000-0001-6293-8668)
+
+---
+
+## 📜 Intellectual Property & Patents
+
+| Patent Title | Application No. | Filing / Pub Date | Status | Field |
+| :--- | :---: | :---: | :---: | :--- |
+| **A Pulsed-Field Spiral Gel Electrophoresis (PFSGE) Method and Apparatus for High-Molecular-Weight DNA Separation** | `202641085541` | July 13, 2026<br>Pub: Oct 23, 2026 | 📜 Published (Sec. 11A) | Biotechnology / Biophysical Instrumentation |
+
+> 🧬 **PFSGE Overview:** Introduces a radially graded polymer porosity matrix combined with a multi-phase rotational electric field to overcome reptation-induced entanglement in HMW DNA molecules (>5 Mb).
 
 ---
 
@@ -68,7 +79,14 @@ I'm **Gurumurthy Swaminathan**, a Lead Data Scientist and AI Architect based in 
 
 ## 📂 Featured Projects
 
-Here are some of my notable open-source projects:
+### 🧬 [PFSGE Simulation Dashboard](https://github.com/sgmoorthy/pfsge)
+> Simulation framework and interactive 2D visualization environment for Pulsed-Field Spiral Gel Electrophoresis (PFSGE). Models Archimedean spiral polymer gradients, overdamped Langevin particle dynamics, and rotating electric fields.
+
+**Tech Stack:** Python | NumPy | Matplotlib | Vercel  
+**IP Status:** Indian Patent Application No. 202641085541  
+**License:** MIT | 🌐 [Live Interactive Web App](https://pfsge.vercel.app)
+
+---
 
 ### 🎵 [DeepRaaga](https://github.com/sgmoorthy/DeepRaaga)
 > An AI-powered system for automatic recognition and classification of Indian classical Carnatic music Raagas using deep learning. Analyzes audio features to identify musical patterns and preserve cultural heritage.
@@ -116,7 +134,7 @@ Here are some of my notable open-source projects:
 > Web application for managing temple lamp offerings and seva registrations with Google Sheets integration. Enables devotees to participate in sacred traditions digitally.
 
 **Tech Stack:** JavaScript | HTML | CSS | Google Sheets API  
-**License:** MIT | 🌐 [Live Demo](https://sgmoorthy.github.io/sivaDeepamSeva)
+**License:** MIT | 🌐 [Live Demo](https://sgmoorthy.github.io/sivaDeepamSeva)  
 **Status:** 5 merged PRs, GitHub Pages deployed
 
 ---
@@ -133,7 +151,7 @@ Here are some of my notable open-source projects:
 > Knowledge graph API built with FastAPI and Neo4j for structured data relationships.
 
 **Tech Stack:** Python | FastAPI | Neo4j  
-**Status:** Legacy project (6 years)
+**Status:** Legacy project
 
 ---
 
@@ -179,10 +197,9 @@ Contributions to major open-source projects outside my personal repositories:
 </p>
 
 ### Contribution Summary
-- **680** total contributions since Dec 20, 2013
-- **331** contributions in the last year
-- **10** merged PRs across personal repos
-- **4** PRs to major external projects (Google ADK, LangGraph, Skales)
+- **680+** total contributions
+- **330+** contributions in the past year
+- Merged PRs across personal projects & major external repositories (Google ADK, LangGraph)
 - Published packages on **PyPI**
 - 🏆 **Arctic Code Vault Contributor**
 - 🏆 **Developer Program Member**
@@ -212,6 +229,6 @@ Contributions to major open-source projects outside my personal repositories:
 
 ---
 
-> "I believe in the power of open-source collaboration to drive innovation in AI and beyond!"
+> "I believe in the power of open-source collaboration and interdisciplinary research to drive innovation in AI, biophysics, and beyond!"
 
 ⭐️ From [sgmoorthy](https://github.com/sgmoorthy)
